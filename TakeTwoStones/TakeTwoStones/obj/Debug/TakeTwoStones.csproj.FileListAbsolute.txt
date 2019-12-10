@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2017\Projects\TakeTwoStones\TakeTwoStones\bin\Debug\TakeTwoStones.exe.config
+c:\users\max\documents\visual studio 2017\Projects\TakeTwoStones\TakeTwoStones\bin\Debug\TakeTwoStones.exe
+c:\users\max\documents\visual studio 2017\Projects\TakeTwoStones\TakeTwoStones\bin\Debug\TakeTwoStones.pdb
+c:\users\max\documents\visual studio 2017\Projects\TakeTwoStones\TakeTwoStones\obj\Debug\TakeTwoStones.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2017\Projects\TakeTwoStones\TakeTwoStones\obj\Debug\TakeTwoStones.exe
+c:\users\max\documents\visual studio 2017\Projects\TakeTwoStones\TakeTwoStones\obj\Debug\TakeTwoStones.pdb

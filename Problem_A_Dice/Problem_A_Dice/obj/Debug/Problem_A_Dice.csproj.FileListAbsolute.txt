@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2017\Projects\Problem_A_Dice\Problem_A_Dice\bin\Debug\Problem_A_Dice.exe.config
+c:\users\max\documents\visual studio 2017\Projects\Problem_A_Dice\Problem_A_Dice\bin\Debug\Problem_A_Dice.exe
+c:\users\max\documents\visual studio 2017\Projects\Problem_A_Dice\Problem_A_Dice\bin\Debug\Problem_A_Dice.pdb
+c:\users\max\documents\visual studio 2017\Projects\Problem_A_Dice\Problem_A_Dice\obj\Debug\Problem_A_Dice.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2017\Projects\Problem_A_Dice\Problem_A_Dice\obj\Debug\Problem_A_Dice.exe
+c:\users\max\documents\visual studio 2017\Projects\Problem_A_Dice\Problem_A_Dice\obj\Debug\Problem_A_Dice.pdb

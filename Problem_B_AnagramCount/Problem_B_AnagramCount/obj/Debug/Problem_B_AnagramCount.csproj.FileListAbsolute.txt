@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2017\Projects\Problem_B_AnagramCount\Problem_B_AnagramCount\bin\Debug\Problem_B_AnagramCount.exe.config
+c:\users\max\documents\visual studio 2017\Projects\Problem_B_AnagramCount\Problem_B_AnagramCount\bin\Debug\Problem_B_AnagramCount.exe
+c:\users\max\documents\visual studio 2017\Projects\Problem_B_AnagramCount\Problem_B_AnagramCount\bin\Debug\Problem_B_AnagramCount.pdb
+c:\users\max\documents\visual studio 2017\Projects\Problem_B_AnagramCount\Problem_B_AnagramCount\obj\Debug\Problem_B_AnagramCount.exe
+c:\users\max\documents\visual studio 2017\Projects\Problem_B_AnagramCount\Problem_B_AnagramCount\obj\Debug\Problem_B_AnagramCount.pdb
+c:\users\max\documents\visual studio 2017\Projects\Problem_B_AnagramCount\Problem_B_AnagramCount\obj\Debug\Problem_B_AnagramCount.csprojResolveAssemblyReference.cache
