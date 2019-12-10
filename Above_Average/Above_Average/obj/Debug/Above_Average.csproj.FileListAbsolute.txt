@@ -1,0 +1,6 @@
+C:\Users\Max\Documents\Visual Studio 2017\Projects\Kattis\Kattis\Above_Average\Above_Average\bin\Debug\Above_Average.exe.config
+C:\Users\Max\Documents\Visual Studio 2017\Projects\Kattis\Kattis\Above_Average\Above_Average\bin\Debug\Above_Average.exe
+C:\Users\Max\Documents\Visual Studio 2017\Projects\Kattis\Kattis\Above_Average\Above_Average\bin\Debug\Above_Average.pdb
+C:\Users\Max\Documents\Visual Studio 2017\Projects\Kattis\Kattis\Above_Average\Above_Average\obj\Debug\Above_Average.csprojResolveAssemblyReference.cache
+C:\Users\Max\Documents\Visual Studio 2017\Projects\Kattis\Kattis\Above_Average\Above_Average\obj\Debug\Above_Average.exe
+C:\Users\Max\Documents\Visual Studio 2017\Projects\Kattis\Kattis\Above_Average\Above_Average\obj\Debug\Above_Average.pdb
