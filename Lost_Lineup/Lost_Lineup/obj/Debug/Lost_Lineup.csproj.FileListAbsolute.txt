@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2017\Projects\Lost_Lineup\Lost_Lineup\bin\Debug\Lost_Lineup.exe.config
+c:\users\max\documents\visual studio 2017\Projects\Lost_Lineup\Lost_Lineup\bin\Debug\Lost_Lineup.exe
+c:\users\max\documents\visual studio 2017\Projects\Lost_Lineup\Lost_Lineup\bin\Debug\Lost_Lineup.pdb
+c:\users\max\documents\visual studio 2017\Projects\Lost_Lineup\Lost_Lineup\obj\Debug\Lost_Lineup.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2017\Projects\Lost_Lineup\Lost_Lineup\obj\Debug\Lost_Lineup.exe
+c:\users\max\documents\visual studio 2017\Projects\Lost_Lineup\Lost_Lineup\obj\Debug\Lost_Lineup.pdb
